@@ -7,7 +7,7 @@
   "env": {
     "ZOOM_WEBHOOK_SECRET_TOKEN": {
       "description": "Your Zoom Webhook Secret Token, found on your App's Features page",
-      "value": "7f1TTwxAQKqr5FIdqGmkLg",
+      "value": "k5JODvr1Rr6UJmPgFpEqZw",
       "required": true
     }
   }
